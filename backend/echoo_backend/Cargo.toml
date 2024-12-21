@@ -1,0 +1,37 @@
+[package]
+name = "echoo_backend"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Web框架
+axum = { version = "0.6.20", features = ["headers"] }  # 改回0.6.20版本
+# 异步运行时
+tokio = { version = "1.35.0", features = ["full"] }
+# JSON序列化/反序列化
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+# 日志记录
+tracing = "0.1"
+tracing-subscriber = "0.3"
+# 跨域资源共享
+tower-http = { version = "0.5", features = ["cors"] }
+# 错误处理
+anyhow = "1.0"
+# HTTP 客户端
+reqwest = { version = "0.11", features = ["json"] }
+# 环境变量
+dotenv = "0.15"
+# 数据库相关
+sqlx = { version = "0.7", features = ["runtime-tokio", "sqlite", "chrono"] }
+chrono = { version = "0.4", features = ["serde"] }
+# 密码哈希
+argon2 = "0.5"
+# 随机数生成和比特币相关
+rand = "0.8"
+# JWT认证
+jsonwebtoken = "9.1.1"
+# 比特币相关
+bitcoin = "0.31.0"
+secp256k1 = "0.28.0"
+uuid = { version = "1.6.1", features = ["v4"] }

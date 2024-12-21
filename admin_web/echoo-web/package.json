@@ -1,0 +1,23 @@
+{
+  "name": "echoo-web",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@sveltejs/kit": "^2.0.0",
+    "svelte": "^4.0.0"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "^3.0.0",
+    "@sveltejs/vite-plugin-svelte": "^3.0.0",
+    "@tsconfig/svelte": "^5.0.4",
+    "sass": "^1.83.0",
+    "svelte-preprocess": "^6.0.3",
+    "typescript": "^5.7.2",
+    "vite": "^5.0.0"
+  }
+}

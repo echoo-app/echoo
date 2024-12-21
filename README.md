@@ -4,6 +4,9 @@
 
 > 基于Flutter开发的安全、注重隐私的Ollama客户端，支持iOS、Android、Windows和macOS。所有数据本地存储，无需账号，不进行追踪。为重视数据隐私且想要使用AI的用户提供理想选择。
 
+## ⬇️ Download
+[![Android APK](https://img.shields.io/badge/Download-Android%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/echoo-app/echoo/releases/latest/download/app-release.apk)
+
 Echoo is a stateless Ollama client built with Flutter, enabling secure access to Ollama on iOS, Android, Windows, and macOS. With a strong focus on privacy, it requires no user identification and performs no data analytics or user tracking. Chat history is encrypted locally, no registration required, and no user data collection. As a pure Ollama client, it provides secure and convenient access to all Ollama-supported models on any device.
 
 [中文文档](#echoo---跨平台ollama客户端)
@@ -96,6 +99,9 @@ MIT License
 Echoo是一个基于Flutter开发的无状态Ollama客户端，让您在iOS、Android、Windows和macOS上都能安全地使用Ollama。注重隐私保护，完全无需用户标识，不进行任何数据分析和用户追踪。聊天记录采用本地加密存储，无需注册账号，不收集任何用户数据。作为一个纯粹的Ollama客户端，让您在任何设备上都能既安全又便捷地使用Ollama支持的所有模型。
 
 [English Version](#echoo---cross-platform-ollama-client)
+
+## ⬇️ 下载
+[![Android APK](https://img.shields.io/badge/下载-Android%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/echoo-app/echoo/releases/latest/download/app-release.apk)
 
 ## 主要特点
 

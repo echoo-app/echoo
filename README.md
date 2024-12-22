@@ -6,8 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/echoo-app/echoo/releases/latest/download/app-release.apk">
-    <img src="https://raw.githubusercontent.com/google/material-design-icons/master/android/action/android/drawable-xxxhdpi/ic_get_app_white_48dp.png" width="120" height="120" alt="Download Android APK" />
-    <br/>
     <img src="https://img.shields.io/badge/DOWNLOAD%20APK-brightgreen?style=for-the-badge&logo=android&logoColor=white&labelColor=green&color=green" height="60" alt="Download Button"/>
   </a>
 </div>

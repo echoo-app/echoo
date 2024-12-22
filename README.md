@@ -12,12 +12,12 @@
   </a>
 </div>
 
-## Screenshots
+## App Preview
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/home.png" width="300" alt="Home Screen" />
-  <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/settings.png" width="300" alt="Settings Screen" />
-</div>
+<p align="center">
+  <img src="images/home.png" width="45%" alt="Home Screen" style="margin-right: 10px"/>
+  <img src="images/settings.png" width="45%" alt="Settings Screen"/>
+</p>
 
 ## Key Features
 
@@ -26,7 +26,7 @@
   - No data analytics or tracking
   - Locally encrypted chat history
   
-- 💻 Complete Ollama Integration
+- 🤖 Complete Ollama Integration
   - Support for all Ollama models
   - Smart context management
   - Automatic long conversation summarization

@@ -13,7 +13,7 @@
 ## App Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/home.png" width="360" height="720" alt="Home Screen" />
+  <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/home.png" width="360" height="720" alt="Home Screen" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/settings.png" width="360" height="720" alt="Settings Screen" />
 </p>
 

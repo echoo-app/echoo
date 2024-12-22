@@ -15,8 +15,8 @@
 ## App Preview
 
 <p align="center">
-  <img src="images/home.png" width="45%" alt="Home Screen" style="margin-right: 10px"/>
-  <img src="images/settings.png" width="45%" alt="Settings Screen"/>
+  <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/home.png" width="45%" style="margin-right: 10px" alt="Home Screen"/>
+  <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/settings.png" width="45%" alt="Settings Screen"/>
 </p>
 
 ## Key Features

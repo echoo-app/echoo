@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Echoo</string>
+    <!-- 声明支持的语言资源 -->
+    <string-array name="supported_locales">
+        <item>zh</item>
+        <item>en</item>
+        <item>ja</item>
+        <item>ko</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>es</item>
+        <item>ru</item>
+        <item>ar</item>
+        <item>fa</item>
+    </string-array>
+</resources>

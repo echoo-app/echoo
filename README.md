@@ -14,10 +14,16 @@
 
 ## App Preview
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/home.png" width="45%" style="margin-right: 10px" alt="Home Screen"/>
-  <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/settings.png" width="45%" alt="Settings Screen"/>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/home.png" width="100%" alt="Home Screen"/>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/settings.png" width="100%" alt="Settings Screen"/>
+    </td>
+  </tr>
+</table>
 
 ## Key Features
 

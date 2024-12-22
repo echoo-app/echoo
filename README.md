@@ -15,8 +15,8 @@
 ## App Preview
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/home.png" width="380" alt="Home Screen" hspace="10"/>
-  <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/settings.png" width="380" alt="Settings Screen" hspace="10"/>
+  <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/home.png" width="360" alt="Home Screen" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/settings.png" width="360" alt="Settings Screen" />
 </div>
 
 ## Key Features

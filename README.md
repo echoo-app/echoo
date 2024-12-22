@@ -5,7 +5,7 @@
 ## ⬇️ Download
 
 <div align="center">
-  <a href="https://github.com/echoo-app/echoo/releases/latest/download/app-release.apk">
+  <a href="https://github.com/echoo-app/echoo/releases">
     <img src="https://img.shields.io/badge/DOWNLOAD%20APK-brightgreen?style=for-the-badge&logo=android&logoColor=white&labelColor=green&color=green" height="60" alt="Download Button"/>
   </a>
 </div>

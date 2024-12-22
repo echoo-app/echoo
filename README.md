@@ -15,8 +15,8 @@
 ## Screenshots
 
 <div align="center">
-  <img src="images/home.png" width="300" alt="Home Screen" />
-  <img src="images/settings.png" width="300" alt="Settings Screen" />
+  <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/home.png" width="300" alt="Home Screen" />
+  <img src="https://raw.githubusercontent.com/echoo-app/echoo/android-only/images/settings.png" width="300" alt="Settings Screen" />
 </div>
 
 ## Key Features

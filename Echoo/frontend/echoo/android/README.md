@@ -4,9 +4,18 @@
 
 ## App Preview
 
-| <img src="../../../images/home.png" width="300" alt="Home Screen" /> | <img src="../../../images/settings.png" width="300" alt="Settings Screen" /> |
-|:---:|:---:|
-| Home Screen | Settings Screen |
+<div align="center">
+  <p align="center">
+    <img src="../../../images/home.png" width="360" alt="Home Screen" />
+    <br/>
+    <em>Home Screen</em>
+  </p>
+  <p align="center">
+    <img src="../../../images/settings.png" width="360" alt="Settings Screen" />
+    <br/>
+    <em>Settings Screen</em>
+  </p>
+</div>
 
 ## Key Features
 

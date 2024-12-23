@@ -2,19 +2,20 @@
 
 > A secure, privacy-focused Ollama client for Android. All data stays local - no accounts, no tracking, just pure AI interaction with your Ollama models. Ideal for anyone who wants to use AI while keeping their data private.
 
-## ⬇️ Download
-
-<div align="center">
-  <a href="https://github.com/echoo-app/echoo/releases/latest/download/app-release.apk">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20APK-brightgreen?style=for-the-badge&logo=android&logoColor=white&labelColor=green&color=green" height="60" alt="Download Button"/>
-  </a>
-</div>
-
 ## App Preview
 
-| <img src="images/home.png" width="300" height="650" style="object-fit: contain;" alt="Home Screen" /> | <img src="images/settings.png" width="300" height="650" style="object-fit: contain;" alt="Settings Screen" /> |
-|:---:|:---:|
-| Home Screen | Settings Screen |
+<div align="center">
+  <p align="center">
+    <img src="/images/home.png" width="360" alt="Home Screen" />
+    <br/>
+    <em>Home Screen</em>
+  </p>
+  <p align="center">
+    <img src="/images/settings.png" width="360" alt="Settings Screen" />
+    <br/>
+    <em>Settings Screen</em>
+  </p>
+</div>
 
 ## Key Features
 
